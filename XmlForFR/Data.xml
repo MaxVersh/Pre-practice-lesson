@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Employee>
+    <Name>Maxim Vershinin</Name>
+    <Age>20</Age>
+    <Programmer>True</Programmer>
+  </Employee>
+  <Employee>
+    <Name>Anton Prokydin</Name>
+    <Age>19</Age>
+    <Programmer>True</Programmer>
+  </Employee>
+  <Employee>
+    <Name>Petya Pypkin</Name>
+    <Age>54</Age>
+    <Programmer>False</Programmer>
+  </Employee>
+  <Employee>
+    <Name>Slavik Zinaru</Name>
+    <Age>18</Age>
+    <Programmer>False</Programmer>
+  </Employee>
+</NewDataSet>
